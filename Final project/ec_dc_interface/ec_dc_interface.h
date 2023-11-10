@@ -1,0 +1,1 @@
+int ec_dc_interface(int oper);

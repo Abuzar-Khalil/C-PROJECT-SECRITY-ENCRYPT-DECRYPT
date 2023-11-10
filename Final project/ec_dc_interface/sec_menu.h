@@ -1,0 +1,1 @@
+int sec_menu(int oper);
